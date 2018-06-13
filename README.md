@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
